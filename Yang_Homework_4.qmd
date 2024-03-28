@@ -1,0 +1,10 @@
+---
+title: "Homework 4"
+author: "Molly Yang"
+format: 
+  html:
+    embed-resources: true
+editor_options: 
+  chunk_output_type: console
+---
+
